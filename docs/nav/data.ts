@@ -275,6 +275,16 @@ export const NAV_DATA: NavData[] = [
         link: 'https://vueuse.org',
       },
       {
+        title: 'VueMacros',
+        desc: '探索更多的宏和语法糖到 Vue 中',
+        link: 'https://vue-macros.dev/zh-CN/',
+      },
+      {
+        title: 'V3Hooks',
+        desc: '针对 Vue3 的实用Hooks集合',
+        link: 'https://yanzhandong868.gitbook.io/v3hooks/',
+      },
+      {
         title: 'Element Plus',
         desc: '基于 Vue 3，面向设计师和开发者的组件库',
         link: 'https://element-plus.org',
@@ -285,19 +295,24 @@ export const NAV_DATA: NavData[] = [
         link: 'https://antdv.com',
       },
       {
+        title: 'Arco Design',
+        desc: 'Arco Design - 企业级产品的完整设计和开发解决方案',
+        link: 'https://arco.design/',
+      },
+      {
         title: 'Vant',
         desc: '轻量、可定制的移动端 Vue 组件库',
         link: 'https://vant-ui.github.io/vant',
       },
       {
-        title: 'Cube UI',
-        desc: '基于 Vue.js 实现的精致移动端组件库',
-        link: 'https://didi.github.io/cube-ui',
+        title: 'PrimeVue',
+        desc: '使用 PrimeVue 全面的可定制、功能丰富的 UI 组件套件',
+        link: 'https://primevue.org/',
       },
       {
-        title: 'NutUI',
-        desc: '京东风格的轻量级移动端组件库',
-        link: 'https://nutui.jd.com',
+        title: 'Vue3-Resource',
+        desc: '包含web端&移动端&小程序&Electron等栏目',
+        link: 'https://hu-snail.github.io/vue3-resource/',
       },
     ],
   },
