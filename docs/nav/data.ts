@@ -565,6 +565,11 @@ export const NAV_DATA: NavData[] = [
         link: 'https://docs.zhengxinonly.com/',
       },
       {
+        title: '全栈开发指南',
+        desc: '',
+        link: 'https://frank-lam.github.io/fullstack-tutorial/#/',
+      },
+      {
         title: '全栈公开课',
         desc: '',
         link: 'https://fullstackopen.com/zh/?ref=appinn',
@@ -865,9 +870,14 @@ export const NAV_DATA: NavData[] = [
     title: '计算机科学',
     items: [
       {
+        title: 'OI Wiki',
+        desc: '',
+        link: 'https://oi-wiki.org/',
+      },
+      {
         title: 'CS-Notes 面试笔记',
         desc: '',
-        link: 'https://www.cyc2018.xyz/',
+        link: 'https://cyc2018.xyz/',
       },
       {
         title: '小林 x 图解计算机基础',
@@ -918,6 +928,11 @@ export const NAV_DATA: NavData[] = [
         title: 'HobbitQia的笔记本',
         desc: '',
         link: 'https://note.hobbitqia.cc/',
+      },
+      {
+        title: 'Yaoyaolingbro notebook',
+        desc: '',
+        link: 'https://yaoyaolingbro.github.io/notebook/',
       },
       {
         title: 'Isshiki修 Notebook',
