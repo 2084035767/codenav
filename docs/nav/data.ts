@@ -369,7 +369,7 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         title: 'programming notes',
-        desc: '',
+        desc: '英语编程笔记',
         link: 'https://www3.ntu.edu.sg/home/ehchua/programming/index.html',
       },
       {
@@ -377,39 +377,20 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://www.cnblogs.com/bytesfly/p/python.html',
       },
-      {
-        title: '陌溪的学习笔记',
-        desc: '陌溪的学习笔记 - 专注于技术分享',
-        link: 'http://moxi159753.gitee.io/learningnotes/#/README',
-      },
+
       {
         title: 'framework-learning',
         desc: '学习计算机相关知识的过程中整理的一些资料',
         link: 'https://qsjzwithguang19forever.gitee.io/framework-learning/',
       },
       {
-        title: 'learning-note',
-        desc: '学习笔记',
-        link: 'https://rbmonster.github.io/learning-note/#/?id=learning-note',
-      },
-      {
-        title: '悟空聊架构',
-        desc: '',
-        link: 'http://passjava.cn/#/',
-      },
-      {
-        title: '架构整洁之道',
-        desc: '',
-        link: 'https://wonderwater.gitbooks.io/clean_architecture_zh/content/',
-      },
-      {
         title: '冰河技术',
-        desc: '',
+        desc: 'MySql 并发',
         link: 'https://binghe001.github.io/',
       },
       {
         title: 'r2coding',
-        desc: '',
+        desc: 'Java 考研贴',
         link: 'https://www.r2coding.com/#/',
       },
       {
@@ -417,16 +398,7 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://wangchujiang.com/handbook/',
       },
-      {
-        title: 'ETS NoteBook',
-        desc: '记录本科及研究生阶段所学的计算机专业知识',
-        link: 'https://notebook.js.org/#/README',
-      },
-      {
-        title: 'Ashiamd的个人MD笔记',
-        desc: '该项目用于记录个人学习笔记，有部分内容来自图书、博客、论坛等。',
-        link: 'https://ashiamd.github.io/docsify-notes/#/',
-      },
+
       {
         title: 'interview',
         desc: '',
@@ -455,7 +427,7 @@ export const NAV_DATA: NavData[] = [
       {
         title: 'JavaPark',
         desc: '汇聚编程学习（侧重 Java）、面试总结、计算机基础、数据库、效率工具等诸多内容。',
-        link: 'https://cunyu1943.github.io/JavaPark/',
+        link: 'https://cunyu1943.github.io/',
       },
       {
         title: 'Java 全栈知识体系',
@@ -573,6 +545,32 @@ export const NAV_DATA: NavData[] = [
         title: '全栈公开课',
         desc: '',
         link: 'https://fullstackopen.com/zh/?ref=appinn',
+      },{
+        title: '悟空聊架构',
+        desc: '',
+        link: 'http://passjava.cn/#/',
+      },
+      {
+        title: '架构整洁之道',
+        desc: '',
+        link: 'https://wonderwater.gitbooks.io/clean_architecture_zh/content/',
+      },{
+        title: '陌溪的学习笔记',
+        desc: '低',
+        link: 'http://moxi159753.gitee.io/learningnotes/#/README',
+      },{
+        title: 'ETS NoteBook',
+        desc: '记录本科及研究生阶段所学的计算机专业知识',
+        link: 'https://notebook.js.org/#/README',
+      },
+      {
+        title: 'Ashiamd的个人MD笔记',
+        desc: '该项目用于记录个人学习笔记，有部分内容来自图书、博客、论坛等。',
+        link: 'https://ashiamd.github.io/docsify-notes/#/',
+      }, {
+        title: 'learning-note',
+        desc: '学习笔记',
+        link: 'https://rbmonster.github.io/learning-note/#/?id=learning-note',
       },
     ],
   },
@@ -848,11 +846,6 @@ export const NAV_DATA: NavData[] = [
         title: 'ALGORITHM-TUTORIAL',
         desc: '',
         link: 'https://dunwu.github.io/waterdrop/pages/3ccbd4/',
-      },
-      {
-        title: '数据结构',
-        desc: '',
-        link: 'https://www.cnblogs.com/songwenjie/category/1201669.html',
       },
       {
         title: '数据结构与算法笔记',
