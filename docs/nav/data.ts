@@ -888,49 +888,14 @@ export const NAV_DATA: NavData[] = [
         link: 'https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei',
       },
       {
-        title: '图灵班学习指南',
-        desc: '',
-        link: 'https://zju-turing.github.io/TuringCourses/',
-      },
-      {
-        title: 'Iridescent的cs笔记本',
-        desc: '',
-        link: 'https://lhxcs.github.io/note/cs/',
-      },
-      {
         title: 'JiepengLab',
         desc: '',
         link: 'https://note.jiepeng.tech/',
       },
       {
-        title: '小角龙的学习笔记',
-        desc: '',
-        link: 'https://zhang-each.github.io/My-CS-Notebook/',
-      },
-      {
-        title: '鹤翔万里的笔记本',
-        desc: '',
-        link: 'https://note.tonycrane.cc/cs/',
-      },
-      {
         title: '咸鱼暄的代码空间',
         desc: '',
         link: 'https://xuan-insr.github.io/',
-      },
-      {
-        title: 'HobbitQia的笔记本',
-        desc: '',
-        link: 'https://note.hobbitqia.cc/',
-      },
-      {
-        title: 'Yaoyaolingbro notebook',
-        desc: '',
-        link: 'https://yaoyaolingbro.github.io/notebook/',
-      },
-      {
-        title: 'Isshiki修 Notebook',
-        desc: '',
-        link: 'https://note.isshikih.top/cour_note/',
       },
       {
         title: '计算机学习指南',
@@ -956,16 +921,6 @@ export const NAV_DATA: NavData[] = [
         title: '函数式编程指北',
         desc: '',
         link: 'https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/',
-      },
-      {
-        title: '程序设计训练（Rust）',
-        desc: '',
-        link: 'https://lab.cs.tsinghua.edu.cn/rust/',
-      },
-      {
-        title: '竺院辅学计划网站',
-        desc: '',
-        link: 'https://ckc-agc.bowling233.top/',
       },
     ],
   },
