@@ -913,11 +913,6 @@ export const NAV_DATA: NavData[] = [
         link: 'https://conanhujinming.github.io/comments-for-awesome-courses/',
       },
       {
-        title: '本科课程总结',
-        desc: '',
-        link: 'https://mini-full.notion.site/mini-full/cc62a03429714bb6a76e28d0f36a6b2c?v=5d9e0004b91f4d9fb399ef75feb94df0',
-      },
-      {
         title: '函数式编程指北',
         desc: '',
         link: 'https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/',
