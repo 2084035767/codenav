@@ -373,12 +373,6 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www3.ntu.edu.sg/home/ehchua/programming/index.html',
       },
       {
-        title: '一文上手Python3',
-        desc: '',
-        link: 'https://www.cnblogs.com/bytesfly/p/python.html',
-      },
-
-      {
         title: 'framework-learning',
         desc: '学习计算机相关知识的过程中整理的一些资料',
         link: 'https://qsjzwithguang19forever.gitee.io/framework-learning/',
@@ -400,7 +394,7 @@ export const NAV_DATA: NavData[] = [
       },
 
       {
-        title: 'interview',
+        title: '面向 C/C++',
         desc: '',
         link: 'https://interview.huihut.com/#/',
       },
@@ -532,6 +526,11 @@ export const NAV_DATA: NavData[] = [
         link: 'https://topjavaer.cn/',
       },
       {
+        title: '程序猿DD',
+        desc: '',
+        link: 'https://www.didispace.com/',
+      },
+      {
         title: '正心全栈编程',
         desc: '',
         link: 'https://docs.zhengxinonly.com/',
@@ -554,23 +553,6 @@ export const NAV_DATA: NavData[] = [
         title: '架构整洁之道',
         desc: '',
         link: 'https://wonderwater.gitbooks.io/clean_architecture_zh/content/',
-      },{
-        title: '陌溪的学习笔记',
-        desc: '低',
-        link: 'http://moxi159753.gitee.io/learningnotes/#/README',
-      },{
-        title: 'ETS NoteBook',
-        desc: '记录本科及研究生阶段所学的计算机专业知识',
-        link: 'https://notebook.js.org/#/README',
-      },
-      {
-        title: 'Ashiamd的个人MD笔记',
-        desc: '该项目用于记录个人学习笔记，有部分内容来自图书、博客、论坛等。',
-        link: 'https://ashiamd.github.io/docsify-notes/#/',
-      }, {
-        title: 'learning-note',
-        desc: '学习笔记',
-        link: 'https://rbmonster.github.io/learning-note/#/?id=learning-note',
       },
     ],
   },
@@ -888,19 +870,9 @@ export const NAV_DATA: NavData[] = [
         link: 'https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei',
       },
       {
-        title: 'JiepengLab',
-        desc: '',
-        link: 'https://note.jiepeng.tech/',
-      },
-      {
         title: '咸鱼暄的代码空间',
         desc: '',
         link: 'https://xuan-insr.github.io/',
-      },
-      {
-        title: '计算机学习指南',
-        desc: '',
-        link: 'https://cs.meowrain.cn/',
       },
       {
         title: '计算机体系结构基础',
