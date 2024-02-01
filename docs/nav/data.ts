@@ -570,19 +570,9 @@ export const NAV_DATA: NavData[] = [
         link: 'https://spring.io/projects/spring-boot/',
       },
       {
-        title: 'SpringFramework',
-        desc: '',
-        link: 'https://spring.io/projects/spring-framework',
-      },
-      {
         title: 'SpringCloud',
         desc: '',
         link: 'https://spring.io/projects/spring-cloud',
-      },
-      {
-        title: 'SpringWebMVC',
-        desc: '',
-        link: 'https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html',
       },
       {
         title: 'MyBatis',
@@ -595,51 +585,6 @@ export const NAV_DATA: NavData[] = [
         link: 'https://spring.io/',
       },
       {
-        title: 'Hibernate',
-        desc: '',
-        link: 'http://hibernate.org/',
-      },
-      {
-        title: 'SpringDataJPA',
-        desc: '',
-        link: 'https://projects.spring.io/spring-data-jpa/',
-      },
-      {
-        title: 'Gson',
-        desc: '',
-        link: 'https://github.com/google/gson',
-      },
-      {
-        title: 'Jackson',
-        desc: '',
-        link: 'http://wiki.fasterxml.com/JacksonHome',
-      },
-      {
-        title: 'Druid',
-        desc: '',
-        link: 'https://github.com/alibaba/druid',
-      },
-      {
-        title: 'Quartz',
-        desc: '',
-        link: 'http://www.quartz-scheduler.org/',
-      },
-      {
-        title: 'Velocity',
-        desc: '',
-        link: 'http://velocity.apache.org/',
-      },
-      {
-        title: 'Thymeleaf',
-        desc: '',
-        link: 'https://www.thymeleaf.org/',
-      },
-      {
-        title: 'Slf4j',
-        desc: '',
-        link: 'https://www.slf4j.org/',
-      },
-      {
         title: 'Netty',
         desc: '',
         link: 'http://netty.io/',
@@ -650,29 +595,14 @@ export const NAV_DATA: NavData[] = [
         link: 'https://maven.apache.org/',
       },
       {
-        title: 'Gradle',
-        desc: '',
-        link: 'https://gradle.org/',
-      },
-      {
         title: 'Rabbitmq',
         desc: '',
         link: 'http://www.rabbitmq.com/',
       },
       {
-        title: 'Kafka',
-        desc: '',
-        link: 'http://kafka.apache.org/',
-      },
-      {
         title: 'Hutool',
         desc: '',
         link: 'https://hutool.cn/',
-      },
-      {
-        title: 'Lombok',
-        desc: '',
-        link: 'https://projectlombok.org/',
       },
       {
         title: 'Sa-token',
@@ -681,12 +611,12 @@ export const NAV_DATA: NavData[] = [
       },
       {
         title: 'solon',
-        desc: '一个兼容多浏览器的 JavaScript 框架',
+        desc: '',
         link: 'https://solon.noear.org/',
       },
       {
         title: 'javalin',
-        desc: '一个兼容多浏览器的 JavaScript 框架',
+        desc: '',
         link: 'https://javalin.io/',
       },
     ],
@@ -810,6 +740,11 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.nowcoder.com/exam/company',
       },
       {
+        title: 'OI Wiki',
+        desc: '',
+        link: 'https://oi-wiki.org/',
+      },
+      {
         title: 'myleetcode',
         desc: '',
         link: 'https://guobinhit.github.io/myleetcode/',
@@ -844,11 +779,7 @@ export const NAV_DATA: NavData[] = [
   {
     title: '计算机科学',
     items: [
-      {
-        title: 'OI Wiki',
-        desc: '',
-        link: 'https://oi-wiki.org/',
-      },
+
       {
         title: 'CS-Notes 面试笔记',
         desc: '',
@@ -909,10 +840,10 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://iui.su/?imyshare.com=friends',
       },
-      {
-        title: 'OhYee 博客',
+       {
+        title: '如有乐享',
         desc: '',
-        link: 'https://www.ohyee.cc/',
+        link: 'https://51.ruyo.net/',
       },
       {
         title: 'Next-gen Tech Edu',
@@ -920,22 +851,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://ng-tech.icu/',
       },
       {
-        title: 'BMPI',
-        desc: '',
-        link: 'https://www.bmpi.dev/',
-      },
-      {
-        title: '杨旭龙博客',
-        desc: '',
-        link: 'https://www.yangxulong.com/',
-      },
-      {
         title: '茂茂物语',
         desc: '',
         link: 'https://notes.fe-mm.com/',
       },
       {
-        title: '廖雪峰的官方网站',
+        title: '廖雪峰官方网站',
         desc: '',
         link: 'https://www.liaoxuefeng.com/',
       },
@@ -943,16 +864,6 @@ export const NAV_DATA: NavData[] = [
         title: 'MrBird',
         desc: '',
         link: 'https://mrbird.cc/',
-      },
-      {
-        title: '程序员泥瓦匠',
-        desc: '',
-        link: 'https://bysocket.com/',
-      },
-      {
-        title: '纯洁的微笑',
-        desc: '',
-        link: 'http://www.ityouknow.com/',
       },
       {
         title: '安知鱼',
@@ -970,11 +881,6 @@ export const NAV_DATA: NavData[] = [
         link: 'https://hardyfish.top/',
       },
       {
-        title: 'EasyBlog',
-        desc: '',
-        link: 'https://www.easyblog.top/',
-      },
-      {
         title: '郭飞的笔记',
         desc: '',
         link: 'https://www.guofei.site/',
@@ -984,11 +890,7 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://loli.fj.cn/',
       },
-      {
-        title: '如有乐享',
-        desc: '',
-        link: 'https://51.ruyo.net/',
-      },
+
       {
         title: 'DXH Blog',
         desc: '',
@@ -999,11 +901,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://dunwu.github.io/waterdrop/',
       },
-      // {
-      //   title: 'Docusaurus',
-      //   desc: '',
-      //   link: '',
-      // },
+      {
+        title: 'CAYZLH',
+        desc: '',
+        link: 'https://www.cayzlh.com/wiki/',
+      },
       // {
       //   title: 'Docusaurus',
       //   desc: '',
@@ -1024,11 +926,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://eladmin.vip/',
       },
-      {
-        title: 'ruoyi-vue-pro文档',
-        desc: '',
-        link: 'https://www.cayzlh.com/wiki/ruoyi-vue-pro/',
-      },
+      // {
+      //   title: '',
+      //   desc: '',
+      //   link: '',
+      // },
       {
         title: 'Arco Design Pro',
         desc: '',
@@ -1065,22 +967,22 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.eletypes.com/',
       },
       {
-        title: 'RegexLearn',
+        title: 'Regex练习',
         desc: '',
         link: 'https://regexlearn.com/zh-cn',
       },
       {
-        title: 'Docker从入门到实践',
+        title: 'Docker学习',
         desc: '',
         link: 'https://yeasy.gitbook.io/docker_practice/',
       },
       {
-        title: 'Getting Docker',
+        title: 'Docker课程',
         desc: '',
         link: 'https://dockerlabs.collabnix.com/',
       },
       {
-        title: 'Markdown 官方教程',
+        title: 'Markdown 教程',
         desc: '',
         link: 'https://markdown.com.cn/',
       },
@@ -1090,12 +992,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://tinylab-1.gitbook.io/shellbook/',
       },
       {
-        title: 'Linux命令大全(手册)',
+        title: 'Linux命令大全',
         desc: '',
         link: 'https://www.linuxcool.com/',
       },
       {
-        title: 'Linux 命令行与 Shell 脚本教程',
+        title: 'Shell 脚本教程',
         desc: '',
         link: 'https://archlinuxstudio.github.io/ShellTutorial/#/',
       },
@@ -1128,11 +1030,6 @@ export const NAV_DATA: NavData[] = [
         title: 'NFT101',
         desc: '',
         link: 'https://nft101.lfgkids.com/',
-      },
-      {
-        title: '区块链',
-        desc: '',
-        link: 'https://eternaldeath.github.io/blockchainHome/#/',
       },
       {
         title: 'Latex',
