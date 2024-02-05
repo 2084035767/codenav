@@ -805,6 +805,13 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://xuan-insr.github.io/',
       },
+
+      {
+        title: '深入理解计算机系统（CSAPP）',
+        desc: '',
+        link: 'https://hansimov.gitbook.io/csapp/',
+      },
+
       {
         title: '计算机体系结构基础',
         desc: '',
@@ -1010,6 +1017,16 @@ export const NAV_DATA: NavData[] = [
         title: 'Database Guidebook',
         desc: '',
         link: 'https://tsejx.github.io/database-guidebook/',
+      },
+      {
+        title: '数据库教程',
+        desc: '',
+        link: 'https://www.sjkjc.com/',
+      },
+      {
+        title: 'MySQL 入门教程',
+        desc: '',
+        link: 'https://wangchujiang.com/mysql-tutorial/index.html',
       },
       {
         title: 'DevOps Guidebook',
