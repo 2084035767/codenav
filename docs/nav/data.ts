@@ -414,10 +414,15 @@ export const NAV_DATA: NavData[] = [
         link: 'https://light-city.github.io/',
       },
       {
-        title: 'bestJavaer',
-        desc: '成为更好的Java程序员的系列教程',
-        link: 'https://github.com/crisxuan/bestJavaer/tree/master',
+        title: '柏码',
+        desc: '',
+        link: 'https://www.itbaima.cn/document',
       },
+      // {
+      //   title: 'bestJavaer',
+      //   desc: '成为更好的Java程序员的系列教程',
+      //   link: 'https://github.com/crisxuan/bestJavaer/tree/master',
+      // },
       {
         title: 'JavaPark',
         desc: '汇聚编程学习（侧重 Java）、面试总结、计算机基础、数据库、效率工具等诸多内容。',
@@ -478,7 +483,6 @@ export const NAV_DATA: NavData[] = [
         desc: 'spring-tutorial 是一个 Spring & Spring Boot 教程。',
         link: 'https://dunwu.github.io/spring-tutorial/',
       },
-
       {
         title: 'Spring 实战(第 5 版)',
         desc: '',
@@ -680,6 +684,16 @@ export const NAV_DATA: NavData[] = [
         link: 'https://ailearning.apachecn.org/',
       },
       {
+        title: 'AI算法工程师手册',
+        desc: '',
+        link: 'https://www.huaxiaozhuan.com/',
+      },
+      {
+        title: '深度学习系统课程',
+        desc: '',
+        link: 'https://chenzomi12.github.io/',
+      },
+      {
         title: '深度学习工程师生存指南',
         desc: '',
         link: 'https://dl.ypw.io/',
@@ -698,6 +712,11 @@ export const NAV_DATA: NavData[] = [
         title: '人工智能教程',
         desc: '',
         link: 'https://www.captainbed.net/blog-neo/',
+      },
+      {
+        title: '深入浅出PyTorch',
+        desc: '',
+        link: 'https://datawhalechina.github.io/thorough-pytorch/',
       },
     ],
   },
