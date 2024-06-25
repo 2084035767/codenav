@@ -69,11 +69,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://roadmap.shengxinjing.cn/',
       },
-      {
-        title: '前端小课',
-        desc: '通过图片、文字、代码、视频等多种方式写成的一本多媒体电子书。',
-        link: 'https://lefex.github.io/',
-      },
+      // {
+      //   title: '前端小课',
+      //   desc: '通过图片、文字、代码、视频等多种方式写成的一本多媒体电子书。',
+      //   link: 'https://lefex.github.io/',
+      // },
       {
         title: 'CSS 技巧',
         desc: 'Web 开发人员需要知道的 CSS 技巧',
@@ -154,11 +154,11 @@ export const NAV_DATA: NavData[] = [
         desc: 'Webpack 知识图谱：模块化、基础概念、工作原理、实战应用',
         link: 'https://tsejx.github.io/webpack-guidebook/',
       },
-      {
-        title: 'Vue2.x学习笔记',
-        desc: '',
-        link: 'https://zhoubichuan.github.io/web-vue/',
-      },
+      // {
+      //   title: 'Vue2.x学习笔记',
+      //   desc: '',
+      //   link: 'https://zhoubichuan.github.io/web-vue/',
+      // },
       {
         title: 'Vue3 入门指南与实战案例',
         desc: '一个关于 Vue 3 + TypeScript 的起步学习教程',
@@ -209,11 +209,11 @@ export const NAV_DATA: NavData[] = [
         desc: '一个用于 Web 的 React 框架',
         link: 'https://nextjs.org',
       },
-      {
-        title: 'UmiJS',
-        desc: '插件化的企业级前端应用框架',
-        link: 'https://umijs.org',
-      },
+      // {
+      //   title: 'UmiJS',
+      //   desc: '插件化的企业级前端应用框架',
+      //   link: 'https://umijs.org',
+      // },
       {
         title: 'Ant Design',
         desc: '一套企业级 UI 设计语言和 React 组件库',
@@ -229,16 +229,16 @@ export const NAV_DATA: NavData[] = [
         desc: '一个小型、快速、可扩展的 React 状态管理解决方案',
         link: 'https://docs.pmnd.rs/zustand/getting-started/introduction',
       },
-      {
-        title: 'Valtio',
-        desc: 'makes proxy-state simple for React and Vanilla',
-        link: 'https://valtio.pmnd.rs',
-      },
-      {
-        title: 'Jotai',
-        desc: 'primitive and flexible state management for React',
-        link: 'https://jotai.org',
-      },
+      // {
+      //   title: 'Valtio',
+      //   desc: 'makes proxy-state simple for React and Vanilla',
+      //   link: 'https://valtio.pmnd.rs',
+      // },
+      // {
+      //   title: 'Jotai',
+      //   desc: 'primitive and flexible state management for React',
+      //   link: 'https://jotai.org',
+      // },
       {
         title: 'Redux',
         desc: 'JavaScript 应用的状态容器，提供可预测的状态管理',
@@ -264,11 +264,11 @@ export const NAV_DATA: NavData[] = [
         desc: '渐进式 JavaScript 框架',
         link: 'https://cn.vuejs.org',
       },
-      {
-        title: 'Vue 2',
-        desc: '渐进式 JavaScript 框架',
-        link: 'https://v2.cn.vuejs.org',
-      },
+      // {
+      //   title: 'Vue 2',
+      //   desc: '渐进式 JavaScript 框架',
+      //   link: 'https://v2.cn.vuejs.org',
+      // },
       {
         title: 'Vue Router',
         desc: 'Vue.js 的官方路由\n为 Vue.js 提供富有表现力、可配置的、方便的路由',
@@ -335,29 +335,21 @@ export const NAV_DATA: NavData[] = [
     title: '后端文档',
     items: [
       {
-        //
-
         title: 'Rust',
         desc: '一门赋予每个人构建可靠且高效软件能力的语言。',
         link: 'https://www.rust-lang.org/zh-CN/',
       },
       {
-        //
-
         title: 'Golang',
         desc: '一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。',
         link: 'https://golang.google.cn/',
       },
       {
-        //
-
         title: 'Lua',
         desc: '一种功能强大、高效、轻量级、可嵌入的脚本语言。',
         link: 'https://www.lua.org/',
       },
       {
-        //
-
         title: 'C#',
         desc: 'C#是微软推出的一种基于.NET框架和后来的.NET的、面向对象的高级编程语言。',
         link: 'https://learn.microsoft.com/zh-cn/dotnet/csharp/',
@@ -372,11 +364,11 @@ export const NAV_DATA: NavData[] = [
         desc: '英语编程笔记',
         link: 'https://www3.ntu.edu.sg/home/ehchua/programming/index.html',
       },
-      {
-        title: 'framework-learning',
-        desc: '学习计算机相关知识的过程中整理的一些资料',
-        link: 'https://qsjzwithguang19forever.gitee.io/framework-learning/',
-      },
+      // {
+      //   title: 'framework-learning',
+      //   desc: '学习计算机相关知识的过程中整理的一些资料',
+      //   link: 'https://qsjzwithguang19forever.gitee.io/framework-learning/',
+      // },
       {
         title: '冰河技术',
         desc: 'MySql 并发',
@@ -433,11 +425,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://pdai.tech/',
       },
-      {
-        title: '小熊学Java',
-        desc: '',
-        link: 'https://javaxiaobear.gitee.io/',
-      },
+      // {
+      //   title: '小熊学Java',
+      //   desc: '',
+      //   link: 'https://javaxiaobear.gitee.io/',
+      // },
       {
         title: 'JavaGuide',
         desc: '一份涵盖大部分 Java 程序员所需要掌握的核心知识。',
@@ -493,16 +485,16 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://www.didispace.com/spring-boot-2/',
       },
-      {
-        title: 'mini-spring',
-        desc: 'mini-spring是简化版的spring框架',
-        link: 'https://github.com/DerekYRC/mini-spring',
-      },
-      {
-        title: 'SpringBoot Demo',
-        desc: '',
-        link: 'https://mouday.gitee.io/spring-boot-demo/#/',
-      },
+      // {
+      //   title: 'mini-spring',
+      //   desc: 'mini-spring是简化版的spring框架',
+      //   link: 'https://github.com/DerekYRC/mini-spring',
+      // },
+      // {
+      //   title: 'SpringBoot Demo',
+      //   desc: '',
+      //   link: 'https://mouday.gitee.io/spring-boot-demo/#/',
+      // },
       {
         title: 'SpringBoot3全栈指南',
         desc: '基于java17，SpringBoot3，快速入门，理解原理。',
@@ -540,6 +532,11 @@ export const NAV_DATA: NavData[] = [
         link: 'https://docs.zhengxinonly.com/',
       },
       {
+        title: '全栈教程',
+        desc: '',
+        link: 'https://tut.qzxdp.cn/',
+      },
+      {
         title: '全栈开发指南',
         desc: '',
         link: 'https://frank-lam.github.io/fullstack-tutorial/#/',
@@ -548,7 +545,13 @@ export const NAV_DATA: NavData[] = [
         title: '全栈公开课',
         desc: '',
         link: 'https://fullstackopen.com/zh/?ref=appinn',
-      },{
+      },
+      {
+        title: '编程专栏',
+        desc: '',
+        link: 'https://www.supremepole.com/',
+      },
+      {
         title: '悟空聊架构',
         desc: '',
         link: 'http://passjava.cn/#/',
@@ -563,46 +566,46 @@ export const NAV_DATA: NavData[] = [
   {
     title: 'JAVA生态',
     items: [
-      {
-        title: 'Spring',
-        desc: '',
-        link: 'https://spring.io/',
-      },
+      // {
+      //   title: 'Spring',
+      //   desc: '',
+      //   link: 'https://spring.io/',
+      // },
       {
         title: 'SpringBoot',
         desc: '',
         link: 'https://spring.io/projects/spring-boot/',
       },
-      {
-        title: 'SpringCloud',
-        desc: '',
-        link: 'https://spring.io/projects/spring-cloud',
-      },
-      {
-        title: 'MyBatis',
-        desc: '',
-        link: 'https://mybatis.org/mybatis-3/zh/index.html',
-      },
+      // {
+      //   title: 'SpringCloud',
+      //   desc: '',
+      //   link: 'https://spring.io/projects/spring-cloud',
+      // },
+      // {
+      //   title: 'MyBatis',
+      //   desc: '',
+      //   link: 'https://mybatis.org/mybatis-3/zh/index.html',
+      // },
       {
         title: 'MyBatisPlus',
         desc: '',
         link: 'https://spring.io/',
       },
-      {
-        title: 'Netty',
-        desc: '',
-        link: 'http://netty.io/',
-      },
+      // {
+      //   title: 'Netty',
+      //   desc: '',
+      //   link: 'http://netty.io/',
+      // },
       {
         title: 'Maven',
         desc: '',
         link: 'https://maven.apache.org/',
       },
-      {
-        title: 'Rabbitmq',
-        desc: '',
-        link: 'http://www.rabbitmq.com/',
-      },
+      // {
+      //   title: 'Rabbitmq',
+      //   desc: '',
+      //   link: 'http://www.rabbitmq.com/',
+      // },
       {
         title: 'Hutool',
         desc: '',
@@ -613,36 +616,36 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://sa-token.cc/',
       },
-      {
-        title: 'solon',
-        desc: '',
-        link: 'https://solon.noear.org/',
-      },
-      {
-        title: 'javalin',
-        desc: '',
-        link: 'https://javalin.io/',
-      },
+      // {
+      //   title: 'solon',
+      //   desc: '',
+      //   link: 'https://solon.noear.org/',
+      // },
+      // {
+      //   title: 'javalin',
+      //   desc: '',
+      //   link: 'https://javalin.io/',
+      // },
     ],
   },
   {
     title: 'PYTHON生态',
     items: [
-      {
-        title: 'Fastapi',
-        desc: '',
-        link: 'https://fastapi.tiangolo.com/zh/',
-      },
-      {
-        title: 'Flask',
-        desc: '',
-        link: 'https://flask.palletsprojects.com/en/3.0.x/',
-      },
-      {
-        title: 'Django',
-        desc: '',
-        link: 'https://docs.djangoproject.com/zh-hans/4.2/',
-      },
+      // {
+      //   title: 'Fastapi',
+      //   desc: '',
+      //   link: 'https://fastapi.tiangolo.com/zh/',
+      // },
+      // {
+      //   title: 'Flask',
+      //   desc: '',
+      //   link: 'https://flask.palletsprojects.com/en/3.0.x/',
+      // },
+      // {
+      //   title: 'Django',
+      //   desc: '',
+      //   link: 'https://docs.djangoproject.com/zh-hans/4.2/',
+      // },
       {
         title: 'NumPy 文档',
         desc: '',
@@ -891,11 +894,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://mrbird.cc/',
       },
-      {
-        title: '安知鱼',
-        desc: '',
-        link: 'https://blog.anheyu.com/',
-      },
+      // {
+      //   title: '安知鱼',
+      //   desc: '',
+      //   link: 'https://blog.anheyu.com/',
+      // },
       {
         title: 'Poll的笔记',
         desc: '',
