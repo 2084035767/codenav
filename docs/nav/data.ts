@@ -9,26 +9,26 @@ export const NAV_DATA: NavData[] = [
   {
     title: '前端文档',
     items: [
-      {
-        title: 'Apache ECharts',
-        desc: '一个基于 JavaScript 的开源可视化图表库',
-        link: 'https://echarts.apache.org/zh/index.html',
-      },
+      // {
+      //   title: 'vue3',
+      //   desc: '易学易用，性能出色，适用场景丰富的 Web 前端框架',
+      //   link: 'https://cn.vuejs.org/',
+      // },
       {
         title: 'Tailwind CSS',
         desc: '用于构建用户界面的 JavaScript 库',
-        link: 'https://tailwindcss.com/docs/installation',
+        link: 'https://tailwind.nodejs.cn/',
       },
-      {
-        title: 'UnoCSS',
-        desc: '即时按需的原子级CSS引擎',
-        link: 'https://alfred-skyblue.gitee.io/unocss-docs-cn/',
-      },
-      {
-        title: 'Web 开发技术',
-        desc: 'Web 开发者指导提供手把手教学，帮助你实际使用 Web 技术做你想做或需要做的。',
-        link: 'https://developer.mozilla.org/zh-CN/docs/Web',
-      },
+      // {
+      //   title: 'UnoCSS',
+      //   desc: '即时按需的原子级CSS引擎',
+      //   link: 'https://alfred-skyblue.gitee.io/unocss-docs-cn/',
+      // },
+  //     {
+  //       title: 'Web 开发技术',
+  //       desc: 'Web 开发者指导提供手把手教学，帮助你实际使用 Web 技术做你想做或需要做的。',
+  //       link: 'https://developer.mozilla.org/zh-CN/docs/Web',
+  //     },
     ],
   },
   {
@@ -39,16 +39,16 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://wangdoc.com/',
       },
-      {
-        title: '不凡学院',
-        desc: '不凡学院文档',
-        link: 'http://doc.bufanui.com/',
-      },
-      {
-        title: '后盾人',
-        desc: '前端学习文档',
-        link: 'https://doc.houdunren.com/',
-      },
+      // {
+      //   title: '不凡学院',
+      //   desc: '不凡学院文档',
+      //   link: 'http://doc.bufanui.com/',
+      // },
+      // {
+      //   title: '后盾人',
+      //   desc: '前端学习文档',
+      //   link: 'https://doc.houdunren.com/',
+      // },
       {
         title: '千古前端图文教程',
         desc: '超详细的 Web 前端入门到进阶知识库',
@@ -74,16 +74,16 @@ export const NAV_DATA: NavData[] = [
       //   desc: '通过图片、文字、代码、视频等多种方式写成的一本多媒体电子书。',
       //   link: 'https://lefex.github.io/',
       // },
-      {
-        title: 'CSS 技巧',
-        desc: 'Web 开发人员需要知道的 CSS 技巧',
-        link: 'https://lhammer.cn/You-need-to-know-css/#/',
-      },
-      {
-        title: 'CSS灵感',
-        desc: '学习 CSS 的灵感',
-        link: 'https://csscoco.com/inspiration/#/',
-      },
+      // {
+      //   title: 'CSS 技巧',
+      //   desc: 'Web 开发人员需要知道的 CSS 技巧',
+      //   link: 'https://lhammer.cn/You-need-to-know-css/#/',
+      // },
+      // {
+      //   title: 'CSS灵感',
+      //   desc: '学习 CSS 的灵感',
+      //   link: 'https://csscoco.com/inspiration/#/',
+      // },
       {
         title: 'CSS3 教程',
         desc: '一本关于 CSS3 的开源书',
@@ -94,21 +94,21 @@ export const NAV_DATA: NavData[] = [
         desc: 'CSS 知识图谱 新特性、属性、布局、响应式、动画',
         link: 'https://tsejx.github.io/css-guidebook/',
       },
-      {
-        title: '一行 JS 代码',
-        desc: '顶级 JavaScript 实用程序，只需一行代码！',
-        link: 'https://phuoc.ng/collection/1-loc/',
-      },
+      // {
+      //   title: '一行 JS 代码',
+      //   desc: '顶级 JavaScript 实用程序，只需一行代码！',
+      //   link: 'https://phuoc.ng/collection/1-loc/',
+      // },
       {
         title: '现代 JavaScript 教程',
         desc: '以最新的 JavaScript 标准为基准。',
         link: 'https://zh.javascript.info/',
       },
-      {
-        title: '《JavaScript 权威指南第七版》',
-        desc: '',
-        link: 'http://js.okten.cn/',
-      },
+      // {
+      //   title: '《JavaScript 权威指南第七版》',
+      //   desc: '',
+      //   link: 'http://js.okten.cn/',
+      // },
       {
         title: 'ECMAScript Next 系列教程',
         desc: '对 ECMAScript 新特性的整理笔记。',
@@ -144,11 +144,11 @@ export const NAV_DATA: NavData[] = [
         desc: 'Node 知识图谱 关于模块、JS 异步编程、进程、I/O、服务端应用等',
         link: 'https://tsejx.github.io/node-guidebook/',
       },
-      {
-        title: '深入浅出 Webpack',
-        desc: '',
-        link: 'http://webpack.wuhaolin.cn/',
-      },
+      // {
+      //   title: '深入浅出 Webpack',
+      //   desc: '',
+      //   link: 'http://webpack.wuhaolin.cn/',
+      // },
       {
         title: 'Webpack Guidebook',
         desc: 'Webpack 知识图谱：模块化、基础概念、工作原理、实战应用',
@@ -174,11 +174,11 @@ export const NAV_DATA: NavData[] = [
         desc: 'React 知识图谱 关于概念、技巧、生态、前沿、源码核心',
         link: 'https://tsejx.github.io/react-guidebook/',
       },
-      {
-        title: 'Cross Platform Guidebook',
-        desc: '跨平台开发知识图谱：HybridApp、ReactNative、小程序、Flutter、Electron',
-        link: 'https://tsejx.github.io/cross-platform-guidebook/',
-      },
+      // {
+      //   title: 'Cross Platform Guidebook',
+      //   desc: '跨平台开发知识图谱：HybridApp、ReactNative、小程序、Flutter、Electron',
+      //   link: 'https://tsejx.github.io/cross-platform-guidebook/',
+      // },
       {
         title: '前端图像学',
         desc: '前端图像学 知识图谱 Canvas、SVG、WebGL',
@@ -344,16 +344,16 @@ export const NAV_DATA: NavData[] = [
         desc: '一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。',
         link: 'https://golang.google.cn/',
       },
-      {
-        title: 'Lua',
-        desc: '一种功能强大、高效、轻量级、可嵌入的脚本语言。',
-        link: 'https://www.lua.org/',
-      },
-      {
-        title: 'C#',
-        desc: 'C#是微软推出的一种基于.NET框架和后来的.NET的、面向对象的高级编程语言。',
-        link: 'https://learn.microsoft.com/zh-cn/dotnet/csharp/',
-      },
+      // {
+      //   title: 'Lua',
+      //   desc: '一种功能强大、高效、轻量级、可嵌入的脚本语言。',
+      //   link: 'https://www.lua.org/',
+      // },
+      // {
+      //   title: 'C#',
+      //   desc: 'C#是微软推出的一种基于.NET框架和后来的.NET的、面向对象的高级编程语言。',
+      //   link: 'https://learn.microsoft.com/zh-cn/dotnet/csharp/',
+      // },
     ],
   },
   {
@@ -385,11 +385,11 @@ export const NAV_DATA: NavData[] = [
         link: 'https://wangchujiang.com/handbook/',
       },
 
-      {
-        title: '面向 C/C++',
-        desc: '',
-        link: 'https://interview.huihut.com/#/',
-      },
+      // {
+      //   title: '面向 C/C++',
+      //   desc: '',
+      //   link: 'https://interview.huihut.com/#/',
+      // },
       // {
       //   title: 'handbook',
       //   desc: '',
@@ -480,11 +480,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://potoyang.gitbook.io/spring-in-action-v5/',
       },
-      {
-        title: 'Spring Boot 2.x入门教程',
-        desc: '',
-        link: 'https://www.didispace.com/spring-boot-2/',
-      },
+      // {
+      //   title: 'Spring Boot 2.x入门教程',
+      //   desc: '',
+      //   link: 'https://www.didispace.com/spring-boot-2/',
+      // },
       // {
       //   title: 'mini-spring',
       //   desc: 'mini-spring是简化版的spring框架',
@@ -541,11 +541,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://frank-lam.github.io/fullstack-tutorial/#/',
       },
-      {
-        title: '全栈公开课',
-        desc: '',
-        link: 'https://fullstackopen.com/zh/?ref=appinn',
-      },
+      // {
+      //   title: '全栈公开课',
+      //   desc: '',
+      //   link: 'https://fullstackopen.com/zh/?ref=appinn',
+      // },
       {
         title: '编程专栏',
         desc: '',
@@ -651,11 +651,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://www.osgeo.cn/numpy/contents.html#',
       },
-      {
-        title: 'Pandas 文档',
-        desc: '',
-        link: 'http://joyfulpandas.datawhale.club/index.html',
-      },
+      // {
+      //   title: 'Pandas 文档',
+      //   desc: '',
+      //   link: 'http://joyfulpandas.datawhale.club/index.html',
+      // },
     ],
   },
   {
@@ -676,11 +676,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://datawhalechina.github.io/pumpkin-book/#/',
       },
-      {
-        title: '简单粗暴 TensorFlow 2',
-        desc: '',
-        link: 'https://tf.wiki/',
-      },
+      // {
+      //   title: '简单粗暴 TensorFlow 2',
+      //   desc: '',
+      //   link: 'https://tf.wiki/',
+      // },
       {
         title: 'AI Learning',
         desc: '',
@@ -701,11 +701,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://dl.ypw.io/',
       },
-      {
-        title: '强化学习 100 题',
-        desc: '',
-        link: 'https://p100.koki-saitoh.com/zh-CN',
-      },
+      // {
+      //   title: '强化学习 100 题',
+      //   desc: '',
+      //   link: 'https://p100.koki-saitoh.com/zh-CN',
+      // },
       {
         title: '蘑菇书EasyRL',
         desc: '',
@@ -751,11 +751,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://labuladong.github.io/algo/',
       },
-      {
-        title: 'LeetCode Cookbook',
-        desc: '',
-        link: 'https://books.halfrost.com/leetcode/',
-      },
+      // {
+      //   title: 'LeetCode Cookbook',
+      //   desc: '',
+      //   link: 'https://books.halfrost.com/leetcode/',
+      // },
       {
         title: '牛客网',
         desc: '',
@@ -766,11 +766,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://oi-wiki.org/',
       },
-      {
-        title: 'myleetcode',
-        desc: '',
-        link: 'https://guobinhit.github.io/myleetcode/',
-      },
+      // {
+      //   title: 'myleetcode',
+      //   desc: '',
+      //   link: 'https://guobinhit.github.io/myleetcode/',
+      // },
       {
         title: '宫水三叶的刷题日记',
         desc: '',
@@ -786,11 +786,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://dunwu.github.io/waterdrop/pages/3ccbd4/',
       },
-      {
-        title: '数据结构与算法笔记',
-        desc: '',
-        link: 'https://notebook.js.org/#/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0?id=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0',
-      },
+      // {
+      //   title: '数据结构与算法笔记',
+      //   desc: '',
+      //   link: 'https://notebook.js.org/#/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0?id=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0',
+      // },
       {
         title: 'DataAlgoGuidebook',
         desc: '',
@@ -839,10 +839,15 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://foxsen.github.io/archbase/',
       },
+      // {
+      //   title: '名校公开课程评价网',
+      //   desc: '',
+      //   link: 'https://conanhujinming.github.io/comments-for-awesome-courses/',
+      // },
       {
-        title: '名校公开课程评价网',
+        title: '为什么这么设计系列',
         desc: '',
-        link: 'https://conanhujinming.github.io/comments-for-awesome-courses/',
+        link: 'https://draveness.me/whys-the-design/',
       },
       {
         title: '函数式编程指北',
@@ -947,54 +952,54 @@ export const NAV_DATA: NavData[] = [
       // },
     ],
   },
-  {
-    title: '优秀项目',
-    items: [
-      {
-        title: 'ELADMIN 在线文档',
-        desc: '',
-        link: 'https://eladmin.vip/',
-      },
-      // {
-      //   title: '',
-      //   desc: '',
-      //   link: '',
-      // },
-      {
-        title: 'Arco Design Pro',
-        desc: '',
-        link: 'https://vue-pro.arco.design/login?redirect=Workplace',
-      },
-      {
-        title: 'Vue Shop Vite',
-        desc: '',
-        link: 'https://vue-admin-beautiful.com/shop-vite/#/register',
-      },
-      {
-        title: 'Vue Naive Admin',
-        desc: '',
-        link: 'https://admin.isme.top/',
-      },
-    ],
-  },
+  // {
+  //   title: '优秀项目',
+  //   items: [
+  //     {
+  //       title: 'ELADMIN 在线文档',
+  //       desc: '',
+  //       link: 'https://eladmin.vip/',
+  //     },
+  //     // {
+  //     //   title: '',
+  //     //   desc: '',
+  //     //   link: '',
+  //     // },
+  //     {
+  //       title: 'Arco Design Pro',
+  //       desc: '',
+  //       link: 'https://vue-pro.arco.design/login?redirect=Workplace',
+  //     },
+  //     {
+  //       title: 'Vue Shop Vite',
+  //       desc: '',
+  //       link: 'https://vue-admin-beautiful.com/shop-vite/#/register',
+  //     },
+  //     {
+  //       title: 'Vue Naive Admin',
+  //       desc: '',
+  //       link: 'https://admin.isme.top/',
+  //     },
+  //   ],
+  // },
   {
     title: '其他教程',
     items: [
-      {
-        title: 'Vim 练习',
-        desc: '',
-        link: 'https://www.openvim.com/tutorial.html',
-      },
-      {
-        title: 'Git 练习',
-        desc: '',
-        link: 'https://learngitbranching.js.org/?locale=zh_CN',
-      },
-      {
-        title: '打字练习',
-        desc: '',
-        link: 'https://www.eletypes.com/',
-      },
+      // {
+      //   title: 'Vim 练习',
+      //   desc: '',
+      //   link: 'https://www.openvim.com/tutorial.html',
+      // },
+      // {
+      //   title: 'Git 练习',
+      //   desc: '',
+      //   link: 'https://learngitbranching.js.org/?locale=zh_CN',
+      // },
+      // {
+      //   title: '打字练习',
+      //   desc: '',
+      //   link: 'https://www.eletypes.com/',
+      // },
       {
         title: 'Regex练习',
         desc: '',
@@ -1005,11 +1010,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://yeasy.gitbook.io/docker_practice/',
       },
-      {
-        title: 'Docker课程',
-        desc: '',
-        link: 'https://dockerlabs.collabnix.com/',
-      },
+      // {
+      //   title: 'Docker课程',
+      //   desc: '',
+      //   link: 'https://dockerlabs.collabnix.com/',
+      // },
       {
         title: 'Markdown 教程',
         desc: '',
@@ -1070,11 +1075,11 @@ export const NAV_DATA: NavData[] = [
         desc: '',
         link: 'https://nft101.lfgkids.com/',
       },
-      {
-        title: 'Latex',
-        desc: '',
-        link: 'https://1024th.github.io/MathJax_Tutorial_CN/#/quickstart',
-      },
+      // {
+      //   title: 'Latex',
+      //   desc: '',
+      //   link: 'https://1024th.github.io/MathJax_Tutorial_CN/#/quickstart',
+      // },
     ],
   },
 ]
